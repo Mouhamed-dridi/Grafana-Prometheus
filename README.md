@@ -1,4 +1,4 @@
-# 🚀 Monitoring Lab Project Description 🚀
+# 🚀 Monitoring Lab Project  🚀
 
 Welcome to our Monitoring Lab! 🖥️📊 This project leverages powerful tools to ensure a robust understanding of our system's health and performance.
 
